@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Ekşigator Bilgileri">
+<!ENTITY panel.title "Ekşigator Bilgileri">
+<!ENTITY username.label "Ekşigator Kullanıcı Adınız">
+<!ENTITY username.accesskey "U">
+<!ENTITY apikey.label "Ekşigator API Anahtarınız">
+<!ENTITY apikey.accesskey "S">

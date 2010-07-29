@@ -1,0 +1,3 @@
+content	eksigator	content/
+locale	eksigator	en-US	locale/en-US/
+overlay	chrome://browser/content/browser.xul	chrome://eksigator/content/script-compiler-overlay.xul
