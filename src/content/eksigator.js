@@ -209,7 +209,7 @@ $(function() {
 function initElements() {
     //panel
     loading = '<div class="eksigator_panel_button"><div class="loading">'+ _FETCHING_LIST +'</div></div>';
-    $("div.panel").prepend('<div id="eksigator_panel">'+ loading +'</div>');
+    $(".panel").prepend('<tr><td id="eksigator_panel">'+ loading +'</td></tr>');
 
     //header
     header = $("h1.title");
