@@ -3,7 +3,7 @@
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>{dcee87a8-7de4-432b-82ab-ef80fdc46af3}</em:id>
 		<em:name>Ekşigator</em:name>
-		<em:version>0.1</em:version>
+		<em:version>0.2b</em:version>
 		<em:description>Eksisözlük'te, takip ettiğiniz başlıklara, yeni bir entry girilince size haber veren bir uygulamadır.</em:description>
 		<em:creator>Murat Corlu</em:creator>
 		<em:contributor>Greasemonkey Compiler by Anthony Lieuallen;</em:contributor>
